@@ -1,0 +1,6 @@
+D:\Dapper\Dapper\bin\Release\Dapper.dll
+D:\Dapper\Dapper\bin\Release\Dapper.pdb
+D:\Dapper\Dapper\obj\Release\Dapper.csproj.AssemblyReference.cache
+D:\Dapper\Dapper\obj\Release\Dapper.csproj.CoreCompileInputs.cache
+D:\Dapper\Dapper\obj\Release\Dapper.dll
+D:\Dapper\Dapper\obj\Release\Dapper.pdb

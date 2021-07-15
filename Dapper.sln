@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper", "Dapper\Dapper.csproj", "{587E502F-FCB2-4DC9-9B93-2B67DA67E8B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{072568A9-71C1-4CC5-9EB5-27EDFE12234E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "origin", "origin\origin.csproj", "{B5E8000A-B3AD-46D4-B1BC-C85B72AE928E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{587E502F-FCB2-4DC9-9B93-2B67DA67E8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587E502F-FCB2-4DC9-9B93-2B67DA67E8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587E502F-FCB2-4DC9-9B93-2B67DA67E8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587E502F-FCB2-4DC9-9B93-2B67DA67E8B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{072568A9-71C1-4CC5-9EB5-27EDFE12234E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072568A9-71C1-4CC5-9EB5-27EDFE12234E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072568A9-71C1-4CC5-9EB5-27EDFE12234E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072568A9-71C1-4CC5-9EB5-27EDFE12234E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E8000A-B3AD-46D4-B1BC-C85B72AE928E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E8000A-B3AD-46D4-B1BC-C85B72AE928E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E8000A-B3AD-46D4-B1BC-C85B72AE928E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E8000A-B3AD-46D4-B1BC-C85B72AE928E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1275F3F3-6817-4F12-BE3E-11694CC373C5}
+	EndGlobalSection
+EndGlobal

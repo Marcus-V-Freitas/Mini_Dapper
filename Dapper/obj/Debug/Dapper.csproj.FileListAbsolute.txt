@@ -1,0 +1,12 @@
+C:\Users\marcu\source\repos\Dapper\Dapper\bin\Debug\Dapper.dll
+C:\Users\marcu\source\repos\Dapper\Dapper\bin\Debug\Dapper.pdb
+C:\Users\marcu\source\repos\Dapper\Dapper\obj\Debug\Dapper.csproj.AssemblyReference.cache
+C:\Users\marcu\source\repos\Dapper\Dapper\obj\Debug\Dapper.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Dapper\Dapper\obj\Debug\Dapper.dll
+C:\Users\marcu\source\repos\Dapper\Dapper\obj\Debug\Dapper.pdb
+D:\Dapper\Dapper\bin\Debug\Dapper.dll
+D:\Dapper\Dapper\bin\Debug\Dapper.pdb
+D:\Dapper\Dapper\obj\Debug\Dapper.csproj.AssemblyReference.cache
+D:\Dapper\Dapper\obj\Debug\Dapper.csproj.CoreCompileInputs.cache
+D:\Dapper\Dapper\obj\Debug\Dapper.dll
+D:\Dapper\Dapper\obj\Debug\Dapper.pdb
