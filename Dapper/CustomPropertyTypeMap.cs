@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace Dapper
+namespace MiniDapper
 {
     public sealed class CustomPropertyTypeMap : SqlMapper.ITypeMap
     {

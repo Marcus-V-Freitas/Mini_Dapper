@@ -1,6 +1,6 @@
 ﻿using System.Data;
 
-namespace Dapper
+namespace MiniDapper
 {
     internal sealed class TableValuedParameter : SqlMapper.ICustomQueryParameter
     {

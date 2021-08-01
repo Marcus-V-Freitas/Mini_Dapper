@@ -2,7 +2,7 @@
 using System.Data;
 using System.Runtime.CompilerServices;
 
-namespace Dapper
+namespace MiniDapper
 {
     public static partial class SqlMapper
     {

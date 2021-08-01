@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Dapper
+namespace MiniDapper
 {
     public static partial class SqlMapper
     {

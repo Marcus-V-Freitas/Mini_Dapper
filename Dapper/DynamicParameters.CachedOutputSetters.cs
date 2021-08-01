@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-namespace Dapper
+namespace MiniDapper
 {
     public partial class DynamicParameters
     {

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Dapper
+namespace MiniDapper
 {
     public static partial class SqlMapper
     {

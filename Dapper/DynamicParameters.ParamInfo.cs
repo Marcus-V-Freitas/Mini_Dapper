@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data;
 
-namespace Dapper
+namespace MiniDapper
 {
     public partial class DynamicParameters
     {

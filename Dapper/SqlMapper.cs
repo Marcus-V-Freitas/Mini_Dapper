@@ -13,7 +13,7 @@ using System.Threading;
 using System.Xml;
 using System.Xml.Linq;
 
-namespace Dapper
+namespace MiniDapper
 {
     public static partial class SqlMapper
     {

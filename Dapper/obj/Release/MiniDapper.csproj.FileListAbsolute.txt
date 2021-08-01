@@ -1,0 +1,5 @@
+D:\repos\Mini_Dapper\Dapper\bin\Release\MiniDapper.dll
+D:\repos\Mini_Dapper\Dapper\bin\Release\MiniDapper.pdb
+D:\repos\Mini_Dapper\Dapper\obj\Release\MiniDapper.csproj.CoreCompileInputs.cache
+D:\repos\Mini_Dapper\Dapper\obj\Release\MiniDapper.dll
+D:\repos\Mini_Dapper\Dapper\obj\Release\MiniDapper.pdb

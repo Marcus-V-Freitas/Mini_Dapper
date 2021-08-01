@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 
-namespace Dapper
+namespace MiniDapper
 {
     public static partial class SqlMapper
     {

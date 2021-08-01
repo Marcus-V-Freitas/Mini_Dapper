@@ -6,7 +6,7 @@ using System.Linq.Expressions;
 using System.Reflection;
 using System.Reflection.Emit;
 
-namespace Dapper
+namespace MiniDapper
 {
     public partial class DynamicParameters : SqlMapper.IDynamicParameters, SqlMapper.IParameterLookup, SqlMapper.IParameterCallbacks
     {

@@ -4,7 +4,7 @@ using System.Reflection;
 using System.Reflection.Emit;
 using System.Threading;
 
-namespace Dapper
+namespace MiniDapper
 {
     public struct CommandDefinition
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Dapper
+namespace MiniDapper
 {
     [Flags]
     public enum CommandFlags

@@ -1,6 +1,6 @@
 ﻿using System.Data;
 
-namespace Dapper
+namespace MiniDapper
 {
     public interface IWrappedDataReader : IDataReader
     {

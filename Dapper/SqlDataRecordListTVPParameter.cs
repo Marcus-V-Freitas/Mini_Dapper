@@ -6,7 +6,7 @@ using System.Linq;
 using System.Reflection;
 using System.Reflection.Emit;
 
-namespace Dapper
+namespace MiniDapper
 {
     internal sealed class SqlDataRecordListTVPParameter<T> : SqlMapper.ICustomQueryParameter
         where T : IDataRecord
